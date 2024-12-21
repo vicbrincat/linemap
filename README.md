@@ -1,4 +1,4 @@
-# linemap
+# myline
 #Maps a value in a linear line
 
 def map(val,x1,y1,x2,y2):
